@@ -1,3 +1,4 @@
+var THREE = require('THREE')
 var flatten = require('flatten-vertex-data')
 var warned = false;
 
