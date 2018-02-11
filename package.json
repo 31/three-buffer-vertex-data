@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "flatten-vertex-data": "^1.0.0",
-    "three": "^0.73.0"
+    "three": "^0.89.0"
   },
   "devDependencies": {
     "baboon-image-uri": "^1.0.1",
